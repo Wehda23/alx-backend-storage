@@ -1,0 +1,2 @@
+// Grab all documents inside databasee
+db.school.find()
